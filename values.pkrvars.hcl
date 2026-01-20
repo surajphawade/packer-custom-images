@@ -1,0 +1,6 @@
+// subscription_id = ""
+// client_id       = ""
+// client_secret   = ""
+// tenant_id       = ""
+// location        = "East US 2"
+// image_name      = "ado-ubuntu-agent-image"
